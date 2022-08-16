@@ -1,4 +1,4 @@
-#Minecraft-Odyssey-Webapp
+# Minecraft-Odyssey-Webapp
 
 # Nuxt 3 Minimal Starter
 
